@@ -123,4 +123,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Output
 
 
+https://github.com/user-attachments/assets/cd40bdc9-45ef-452b-8919-4295dbf40ab0
+
+
+
 Built with ❤️ using Streamlit, LangChain, FAISS, and Groq
